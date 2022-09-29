@@ -14,3 +14,4 @@ class ProductPageLocators():
     PRODUCT_ADDED = (By.CSS_SELECTOR, '.alertinner>strong')
     PRICE_OF_PRODUCT = (By.CSS_SELECTOR, 'p.price_color')
     PRICE_ADDED =(By.CSS_SELECTOR, '.alertinner>p>strong')
+    SUCCESS_MESSAGE = (By.CSS_SELECTOR, '.alert-success:nth-child(2)')
