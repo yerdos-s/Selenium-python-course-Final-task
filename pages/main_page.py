@@ -5,3 +5,4 @@ from .locators import MainPageLocators
 
 class MainPage(BasePage):
     pass
+
